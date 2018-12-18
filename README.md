@@ -1,2 +1,2 @@
-# barama
+# endowed
 Barama Hackathon Life Endowment 
